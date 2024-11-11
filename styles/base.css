@@ -1,6 +1,7 @@
 :root {
     --color-primary: #FF7B54;
     --color-text-on-primary: white;
+    --color-text-on-secondary: black;
     --color-button-border: var(--color-text-on-primary);
 
     --color-button-primary-background: var(--color-text-on-primary);
@@ -30,6 +31,7 @@ a {
     text-decoration: inherit;
 }
 
+h2,
 p {
     margin: 0;
 }
